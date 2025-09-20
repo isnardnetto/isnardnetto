@@ -1,8 +1,8 @@
 ## Opa! Eu sou Isnard. 🤙
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcondes-oliveira-618017221/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isnard-santos-926545156/)
 
-![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjrjunior&show_icons=true&theme=radical)
+![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=isnardnetto&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo no meu dia a dia:
 
